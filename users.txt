@@ -1,0 +1,3 @@
+email1@example.com;password1;name1;2022-01-01
+email2@example.com;password2;name2;2022-01-02
+gustavo@email.com;gustavo1;Gustavo;2024-05-22
